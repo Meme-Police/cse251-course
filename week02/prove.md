@@ -4,7 +4,7 @@
 
 ## Overview
 
-The website `swapi.dev` contains details of all of the Star Wars films.  You can access this information by making Internet GET requests.  You will be retrieving the details of the 6th Star Wars film.
+The website `swapi.dev` contains details of all of the Star Wars films.  You can access this information by making Internet GET requests.  You will be retrieving the details of the Star Wars Episode 3: Revenge of the Sith.
 
 ## Instructions
 
